@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 - [Introduction](#introduction).
-- [Purpose of the sales analysis project](#Purpose of the sales analysis project).
+- [Purpose Of The Sales Analysis Project](#Purpose of the sales analysis project).
 - [Project Objective](#project-objective).
 - [Data Preprocessing](#data-preprocessing).
 - [Exploratory Data Analysis](#EDA).
