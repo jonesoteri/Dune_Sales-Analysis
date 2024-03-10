@@ -1,4 +1,5 @@
-# Dune_Sales-Analysis
+# Dune_Sales-Analysis (Utilize python libraries and tools to perform EDA on the collected sales data).
+
 
 ## Table of Contents 
 - [Introduction](#introduction).
