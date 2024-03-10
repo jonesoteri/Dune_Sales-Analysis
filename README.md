@@ -12,7 +12,7 @@
 ## Introduction
 Dune is a reputable global retailer offering a diverse selection of products, including accessories, clothing and phones. With a growing presence in 14 countries and a team of over 70,000 employees, the company prides itself on providing affordable options for everyone. From fashion-forward trendsetters to multigenerational families. Dune strives to offer great quality essentials and standout styles that cater to a wide range of customers.
 
-## Purpose of the sales analysis project
+## Purpose 
 To analyse the company's sales data from the previous year and provide actionable insights and recommendations. This analysis will help identify areas of opportunity and inform future business decisions aimed at improving performance and increasing profitability.
 
 ## Project Objectives
