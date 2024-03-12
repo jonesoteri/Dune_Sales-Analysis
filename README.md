@@ -8,7 +8,7 @@
 - [Data Preprocessing](#data-preprocessing).
 - [Exploratory Data Analysis](#EDA).
 - [Key_Insights](#key-insights).
-- [Conclusion](#conclusion)
+
 
 ## Introduction
 Dune is a reputable global retailer offering a diverse selection of products, including accessories, clothing and phones. With a growing presence in 14 countries and a team of over 70,000 employees, the company prides itself on providing affordable options for everyone. From fashion-forward trendsetters to multigenerational families. Dune strives to offer great quality essentials and standout styles that cater to a wide range of customers.
@@ -37,6 +37,4 @@ Ranging from Univariate, Bivariate and Multivariate. Data analysis was performed
 * From the countplot, we can see Remota has the most transaction, same with Chinazam, Feyisola and Kenny has the least.
 * Accessories product generate more profit compare to the othe products.
 
-## Conclusion
-Dune sales company should invest more into the accessories product, the adult age group should be targeted and Lagos state display that they generated the highest profit.
 
